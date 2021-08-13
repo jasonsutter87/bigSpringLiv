@@ -1176,10 +1176,10 @@ footer {
       height: 600px; } }
 
 #jumbotron {
-  background-image: url("/Portals/K2Development/assets/mobile/marquees/K2Development-home-marquee-mobile-market-center.jpg"); }
+  background-image: url("/bigSpringLiv/Portals/K2Development/assets/mobile/marquees/K2Development-home-marquee-mobile-market-center.jpg"); }
   @media (min-width: 992px) {
     #jumbotron {
-      background-image: url("/Portals/K2Development/assets/desktop/marquees/K2Development-home-marquee-market-center.jpg"); } }
+      background-image: url("/bigSpringLiv/Portals/K2Development/assets/desktop/marquees/K2Development-home-marquee-market-center.jpg"); } }
 
 .index-jumbotron-content {
   padding: 2rem 0; }
@@ -1195,7 +1195,7 @@ footer {
       padding: 50px 0; } }
 
 #index-our-project {
-  background-image: url("/Portals/K2Development/assets/mobile/home/K2Development-Portfolio-image-mobile.jpg");
+  background-image: url("/bigSpringLiv/Portals/K2Development/assets/mobile/home/K2Development-Portfolio-image-mobile.jpg");
   margin: 15px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1205,7 +1205,7 @@ footer {
   @media (min-width: 992px) {
     #index-our-project {
       margin: 0;
-      background-image: url("/Portals/K2Development/assets/desktop/home/K2Development-Portfolio-image.jpg"); } }
+      background-image: url("/bigSpringLiv/Portals/K2Development/assets/desktop/home/K2Development-Portfolio-image.jpg"); } }
   #index-our-project .index-project-portfolio-content {
     padding: 2rem 0;
     width: 100%;
